@@ -1,6 +1,6 @@
 {
-  "name": "strapi-supa-storage",
-  "version": "1.0.0",
+  "name": "strapi-supa-storage-provider",
+  "version": "1.0.6",
   "description": "Supabase storage provider for Strapi v4 upload plugin",
   "homepage": "http://strapi.io",
   "keywords": [
@@ -19,7 +19,7 @@
     "publish-beta": "npm version pre --preid beta --no-git-tag-version && npm publish --tag beta"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^1.35.6"
+    "@supabase/supabase-js": "^2.26.0"
   },
   "strapi": {
     "isProvider": true
