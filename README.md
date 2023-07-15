@@ -1,5 +1,8 @@
 # Strapi Upload Provider for Supabase storage
 
+
+- This is further forked from [strapi-provider-upload-supabase-v4](https://github.com/paulospiguel/strapi-provider-upload-supabase-v4), since the original author has not updated the package to support Node 18.x. We might not able to maintain this package in the future, so please use it at your own risk.
+
 - This provider is a fork of [shorwood's](https://github.com/shorwood) [strapi upload provider digitalocean](https://github.com/shorwood/strapi-provider-upload-do) for Digital Ocean spaces, but applied to [Supabase storage](https://supabase.io/)
 
 ## Parameters
